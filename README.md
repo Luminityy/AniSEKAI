@@ -1,3 +1,5 @@
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Luminityy/AniSEKAI/total?style=for-the-badge)
+
 <p align="center">
    <img src="https://i.postimg.cc/C19NL3y9/Screenshot-2024-07-21-08-23-22-95.jpg&" alt="AniSEKAI Banner" width=100% >
 </p>
