@@ -34,7 +34,7 @@ You can come hang out with our awesome community, request new features, and repo
 
 ## VISITORS
 
-<img src="https://count.getloli.com/get/@:rebeloniondantotsu" alt=":rebeloniondantotsu" />
+<img src="https://count.getloli.com/get/@:dev_mikeyy" alt=":dev_mikeyy" />
 
 ## LICENSE 📜
 
