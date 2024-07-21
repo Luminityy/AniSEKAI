@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/1251790243112423464/1264433461943468082/Screenshot_2024-07-21-08-23-22-95.jpg?ex=669ddaed&is=669c896d&hm=92606ceaa2d7f61991b4e3897e75bc9facf836f4f36697721452dcb2fd5f6b67&" alt="AniSEKAI Banner" width=100% >
+   <img src="https://i.postimg.cc/C19NL3y9/Screenshot-2024-07-21-08-23-22-95.jpg&" alt="AniSEKAI Banner" width=100% >
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/platforms-android-blueviolet?style=for-the-badge"/>
