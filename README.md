@@ -1,11 +1,11 @@
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Luminityy/AniSEKAI/total?style=for-the-badge)
+
 
 <p align="center">
    <img src="https://i.postimg.cc/C19NL3y9/Screenshot-2024-07-21-08-23-22-95.jpg&" alt="AniSEKAI Banner" width=100% >
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/platforms-android-blueviolet?style=for-the-badge"/>
-   <a href="https://github.com/rebelonion/Dantotsu/releases"><img src="https://img.shields.io/github/downloads/Luminityy/AniSEKAI/total?style=for-the-badge?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
+   ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Luminityy/AniSEKAI/total?style=for-the-badge)
    <a href="https://www.codefactor.io/repository/github/rebelonion/dantotsu"><img src="https://www.codefactor.io/repository/github/rebelonion/dantotsu/badge?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge" alt="CodeFactor" /></a>
    <a href="https://discord.com/invite/Eew3HH8qnQ"><img src="https://img.shields.io/discord/358599430502481920.svg?style=for-the-badge&logo=discord&colorB=7289DA"></a>
 </p>
