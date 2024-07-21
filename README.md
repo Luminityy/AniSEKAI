@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://i.ibb.co/s20t1rp/Ani-SEKAI-alpha-logo.jpg" alt="AniSEKAI Banner" width=100% >
+   <img src="https://i.postimg.cc/qhXn1ZvG/Screenshot-2024-07-21-08-23-22-95.jpg" alt="AniSEKAI Banner" width=100% >
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/platforms-android-blueviolet?style=for-the-badge"/>
